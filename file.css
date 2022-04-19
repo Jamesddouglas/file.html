@@ -1,0 +1,31 @@
+body {
+    color: red;
+    font-weight: 900;
+}
+
+.list {
+    text-overflow: ellipsis;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lightblue;
+}
+
+.list1 {
+    font-size: large;
+    color: purple
+}
+
+.square {
+    background-color: aqua;
+    border: 19px solid red;
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+}
+
+#squareMiles {
+    margin-bottom: 30vh;
+}
+
+#give {
+    margin-bottom: 10vh;
+}
